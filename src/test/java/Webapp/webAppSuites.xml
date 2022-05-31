@@ -1,0 +1,9 @@
+<suite>
+    <test name="webapp">
+        <classes>
+            <class name="">
+
+            </class>
+        </classes>
+    </test>
+</suite>
